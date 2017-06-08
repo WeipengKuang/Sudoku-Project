@@ -1,4 +1,4 @@
-## Introductory Project: Diagonal Sudoku Solver
+##Diagonal Sudoku Solver
 
 # (Naked Twins)
 selecting the boxes which have two numbers in it and loop through all units. If there are 2 boxes in one unit with the same values, remove these two values from other boxes in this unit. 
